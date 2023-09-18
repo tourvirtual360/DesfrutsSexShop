@@ -1,9 +1,9 @@
 {
- "start_url": "index.htm",
- "theme_color": "#FFFFFF",
- "description": "Especializada na sua saúde intima em Manaus",
- "background_color": "#FFFFFF",
  "name": "Desfrut Sex Shop ",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
+ "background_color": "#FFFFFF",
+ "description": "Especializada na sua saúde intima em Manaus",
  "icons": [
   {
    "type": "image/png",
