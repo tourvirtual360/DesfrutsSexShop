@@ -120,6 +120,8 @@ HotspotPanoramaOverlayArea_AC651549_B654_02EF_41BC_FE840632C2F2.toolTip = COMPRA
 HotspotPanoramaOverlayArea_AE083CCF_B654_03E3_41D5_39EA20492F64.toolTip = COMPRAR LINGERIE
 HotspotPanoramaOverlayArea_AE5FBA07_B674_0663_41E3_2972FDD88A86.toolTip = COMPRAR 
 HotspotPanoramaOverlayArea_AEF70461_B654_02DF_41D6_065BBF3B832D.toolTip = COMPRAR NO SITE
+HotspotPanoramaOverlayArea_AF74AAE2_B65C_07DD_41E2_10BB9690A83E.toolTip = COMPRAR VIBRADOR
+HotspotPanoramaOverlayArea_AF74FAE3_B65C_07A3_41DE_E9364B8DED0C.toolTip = COMPRAR VIBRADOR
 HotspotPanoramaOverlayArea_B3034E9B_AB78_9CFC_41D6_99A161764AAB.toolTip = VER PRÓXIMO
 HotspotPanoramaOverlayArea_B9C6F626_AB09_8FD4_41D7_B9B91325D35E.toolTip = VER PRÓXIMO
 HotspotPanoramaOverlayArea_BC0449BE_AB78_8434_41BE_733B408AEA95.toolTip = VER PRÓXIMO
@@ -149,7 +151,7 @@ LinkBehaviour_A11914C4_B0D1_9E81_41DC_BBBF6F144898.source = https://desfrutsexsh
 LinkBehaviour_A126A6B0_B050_9A81_41D2_C9CC90F066DF.source = https://desfrutsexshop.com.br/c-497822---POMPOAR-E-SAUDE
 LinkBehaviour_A13675A9_B0F3_9E83_41CF_52ECE48047F2.source = https://desfrutsexshop.com.br/c-498178---VIBRADORES-_TODOS_
 LinkBehaviour_A13B35D1_B0D7_9E83_41E1_89A2F06A1852.source = https://desfrutsexshop.com.br/c-498178---VIBRADORES-_TODOS_
-LinkBehaviour_A13D14CC_B070_9E81_41C4_E7DE09D07EAA.source = https://desfrutsexshop.com.br/p-2177251-bonecarealistasexdollclara
+LinkBehaviour_A13D14CC_B070_9E81_41C4_E7DE09D07EAA.source = https://desfrutsexshop.com.br/categoria.php?cod_categoria=767612
 LinkBehaviour_A13F46A1_B0D0_9A83_41E4_15A8E2AFAFBE.source = https://desfrutsexshop.com.br/c-498178---VIBRADORES-_TODOS_
 LinkBehaviour_A153D580_B5FC_025D_41DB_32EA651F5CC8.source = https://desfrutsexshop.com.br/c-497776---PLUGs
 LinkBehaviour_A15C7581_B5FC_025F_41CA_6DE376BA9418.source = https://desfrutsexshop.com.br/c-497776---PLUGs
@@ -221,7 +223,11 @@ LinkBehaviour_AC0F64AD_B654_03A4_41E5_7AA235C252B4.source = https://desfrutsexsh
 LinkBehaviour_AC65054A_B654_02ED_41DC_F01C88B2C018.source = https://desfrutsexshop.com.br/consulta.php?palavra=MAQUINA+DO+SEXO
 LinkBehaviour_AE372183_B654_0263_41E5_56E56DD1D4DF.source = https://desfrutsexshop.com.br/c-498137---FANTASIAS-FEMININA
 LinkBehaviour_AF5918B0_B654_03BC_41CE_232D75CBCDA5.source = https://desfrutsexshop.com.br/c-690610---MASCULINA
+LinkBehaviour_AF74BAE2_B65C_07DD_41D0_E6D24974B712.source = https://desfrutsexshop.com.br/c-498178---VIBRADORES-_TODOS_
+LinkBehaviour_AF74CAE3_B65C_07A3_41D8_CA7B4D985677.source = https://desfrutsexshop.com.br/c-498178---VIBRADORES-_TODOS_
 LinkBehaviour_AF8569BA_B654_05AD_41E3_08D1B5A16850.source = https://desfrutsexshop.com.br/c-498165---LINGERIES
+LinkBehaviour_AF921F55_B65C_7EE4_4195_F925C1FFA575.source = https://desfrutsexshop.com.br/c-498178---VIBRADORES-_TODOS_
+LinkBehaviour_AF9B8352_B654_06FC_41DE_B283FFDF4439.source = https://desfrutsexshop.com.br/categoria.php?cod_categoria=767612
 LinkBehaviour_AFB86937_B654_02A3_41D9_7A3246BFB309.source = https://desfrutsexshop.com.br/p-2177251-bonecarealistasexdollclara
 LinkBehaviour_AFFB393A_B64C_02AC_41D0_929EFA338C97.source = https://desfrutsexshop.com.br/c-762922---ACESSORIOS%2C-CALCINHAS-e-MEIAS
 LinkBehaviour_B11FB0C7_AB7E_94B8_41E2_872B9A7F67A1.source = https://desfrutsexshop.com.br/c-497918---EXCITANTES
