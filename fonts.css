@@ -1,16 +1,4 @@
 @font-face {
-   font-family: "Bebas Neue Bold";
-   src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
-   font-family: "Rage Italic";
-   src: url("fonts/Rage Italic.woff") format("woff"), url("fonts/Rage Italic.eot") format("embedded-opentype"), url("fonts/Rage Italic.TTF") format("truetype"), url("fonts/Rage Italic.svg") format("svg");
-   font-weight: normal;
-   font-style: italic;
-}
-@font-face {
    font-family: "Browallia New";
    src: url("fonts/Browallia New.woff") format("woff"), url("fonts/Browallia New.eot") format("embedded-opentype"), url("fonts/Browallia New.ttf") format("truetype"), url("fonts/Browallia New.svg") format("svg");
    font-weight: normal;
@@ -33,4 +21,10 @@
    src: url("fonts/Browallia New Bold Italic.woff") format("woff"), url("fonts/Browallia New Bold Italic.eot") format("embedded-opentype"), url("fonts/Browallia New Bold Italic.ttf") format("truetype"), url("fonts/Browallia New Bold Italic.svg") format("svg");
    font-weight: bold;
    font-style: italic;
+}
+@font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
 }
