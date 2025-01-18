@@ -11,11 +11,8 @@ tour.name = Desfrut Sex Shop
 ## Skin
 
 ### Button
-Button_62286E4B_71AC_5E53_41CC_C8DF280F4B3E.label = SELECIONE A DESFRUT E FAÇA O TOUR VIRTUAL
-Button_6520E7EA_71B4_6E5D_41B0_F037C52A37DC.label = DESFRUT SUMAUMA
-Button_65EC55BA_71B5_A23D_41BA_152C9F58DC92.label = DESFRUT VIEIRALVES
-Button_69AF725E_7357_A675_419C_9AACA08CA461.label = IR PARA DESFRUT SUMAUMA
-Button_A4599C3D_AB08_9C35_4190_DABD60E14222.label = Compre no Site
+Button_758850BC_7AB7_CDED_41D3_4878D1D45586.label = CONHEÇA UNIDADE SUMAUMA
+Button_A4599C3D_AB08_9C35_4190_DABD60E14222.label = COMPRE NO SITE
 Button_A507D492_AB0B_8CCF_41E5_37DB21046943.label = Compre no Site
 
 ## Media
@@ -248,8 +245,7 @@ HotspotPanoramaOverlayArea_BF03C55D_AB59_9C48_41E0_5E3C755EEFAC.toolTip = COMPRA
 ## Action
 
 ### URL
-LinkBehaviour_6718788F_71B4_62D3_41AD_892DC6064442.source = https://tourvirtual360.github.io/DesfrutSumauma/
-LinkBehaviour_69650123_7354_63D3_41D5_F0026B42BF8D.source = https://tourvirtual360.github.io/DesfrutSumauma/
+LinkBehaviour_758830BE_7AB7_CDED_41D8_A5FE9013574E.source = https://tourvirtual360.github.io/DesfrutSumauma/
 LinkBehaviour_A0153980_B359_4721_41E0_492B37315408.source = https://desfrutsexshop.com.br/c-498178---VIBRADORES-_TODOS_
 LinkBehaviour_A03E686E_B0F0_F581_41E3_7459B7C69C4D.source = https://desfrutsexshop.com.br/c-498165---LINGERIES
 LinkBehaviour_A0461954_B34B_4721_41C4_A934A02C6FE7.source = https://desfrutsexshop.com.br/c-878439---ANAL---SEM-DOR
