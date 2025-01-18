@@ -11,7 +11,8 @@ tour.name = Desfrut Sex Shop
 ## Skin
 
 ### Button
-Button_758850BC_7AB7_CDED_41D3_4878D1D45586.label = CONHEÇA UNIDADE SUMAUMA
+Button_6E59BE7A_7AFA_B575_41D4_DE5BA36A92D4.label = CONHEÇA DESFRUT SUMAÚMA SHOPPING
+Button_758850BC_7AB7_CDED_41D3_4878D1D45586.label = CONHEÇA DESFRUT SUMAÚMA SHOPPING
 Button_A4599C3D_AB08_9C35_4190_DABD60E14222.label = COMPRE NO SITE
 Button_A507D492_AB0B_8CCF_41E5_37DB21046943.label = Compre no Site
 
@@ -245,6 +246,7 @@ HotspotPanoramaOverlayArea_BF03C55D_AB59_9C48_41E0_5E3C755EEFAC.toolTip = COMPRA
 ## Action
 
 ### URL
+LinkBehaviour_6E59AE7B_7AFA_B56B_41A4_4F06A1FA4CDA.source = https://tourvirtual360.github.io/DesfrutSumauma/
 LinkBehaviour_758830BE_7AB7_CDED_41D8_A5FE9013574E.source = https://tourvirtual360.github.io/DesfrutSumauma/
 LinkBehaviour_A0153980_B359_4721_41E0_492B37315408.source = https://desfrutsexshop.com.br/c-498178---VIBRADORES-_TODOS_
 LinkBehaviour_A03E686E_B0F0_F581_41E3_7459B7C69C4D.source = https://desfrutsexshop.com.br/c-498165---LINGERIES
