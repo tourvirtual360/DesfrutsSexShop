@@ -40,6 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "display": "fullscreen"
 }
